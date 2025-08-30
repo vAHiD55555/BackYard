@@ -1,3 +1,5 @@
+https://nandark.disqus.com/embed.js';
+
 <div id="disqus_thread"></div>
 <script>
     /**
